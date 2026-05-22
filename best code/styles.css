@@ -1,0 +1,91 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: aquamarine;
+    font-family: Arial;
+    text-align: center;
+    
+}
+nav {
+    position: fixed;
+    background-color: lightskyblue;
+    color: darkgoldenrod;
+    width: 100%;
+    text-align: center;
+    padding: 20px 50px;
+    border-radius: 10px;
+    z-index: 1;
+
+}
+h1 {
+    color: darkgoldenrod;
+}
+
+p {
+    font-size: 18px;
+}
+
+.box {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+}
+.box2 {
+    position: absolute;
+    background-color: white;
+    width: 15%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    bottom: 70px;
+    left: 775px;
+}
+.box3 {
+    position: absolute;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    top: 750px;
+    left: 500px;
+}
+#silly {
+    text-align: left;
+    position: relative;
+    top: 20px;
+    right: 450px;
+    width: 700px;
+    height: 500px;
+    z-index: 0;
+}
+#hockey {
+    display: inline-block;
+    position: relative;
+    bottom: 400px;
+    left: 600px;
+    width: 400px;
+    height: 400px;
+}
+#rules {
+    display: inline-block;
+    position: relative;
+    z-index: 0;
+    right: 750px;
+    top: -75px;
+}
+.box4 {
+    position: absolute;
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid black;
+    top: 900px;
+    left: 500px;
+
+}

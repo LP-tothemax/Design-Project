@@ -1,0 +1,86 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h1 {
+    color: darkgoldenrod;
+}
+
+.box {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+.box2 {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+.box3 {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+.box4 {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+.box5 {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+.box6 {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+.box7 {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+.box8 {
+    background-color: white;
+    width: 80%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+    text-align: left;
+}
+h2 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+}
