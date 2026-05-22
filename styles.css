@@ -37,12 +37,12 @@ p {
 .box2 {
     position: absolute;
     background-color: white;
-    width: 15%;
+    width: 20%;
     margin: auto;
-    padding: 20px;
+    padding: 15px;
     border: 1px solid black;
-    bottom: 70px;
-    left: 775px;
+    bottom: -70px;
+    left: 590px;
 }
 .box3 {
     position: absolute;
@@ -52,7 +52,7 @@ p {
     padding: 20px;
     border: 1px solid black;
     top: 750px;
-    left: 500px;
+    left: 350px;
 }
 #silly {
     text-align: left;
@@ -79,13 +79,13 @@ p {
     top: -75px;
 }
 .box4 {
-    position: absolute;
+    position: relative;
     background-color: white;
     width: 70%;
     margin: auto;
     padding: 20px;
     border: 1px solid black;
-    top: 900px;
-    left: 500px;
+    top: -200px;
+    left: 150px;
 
 }
