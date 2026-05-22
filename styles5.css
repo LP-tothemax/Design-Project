@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    box-sizing: border-box;}
+    
+body {
+    background-color: aquamarine;
+    font-family: Arial;
+    text-align: center;
+}
+
+h1 {
+    color: black;
+}
+
+.box {
+    background-color: white;
+    width: 70%;
+    margin: auto;
+    padding: 20px;
+    border: 3px solid black;
+}
+
+p {
+    font-size: 18px;
+}
+
+input, textarea {
+    width: 80%;
+    padding: 10px;
+    margin: 10px 0;
+    font-size: 16px;
+    border: 2px solid black;
+}

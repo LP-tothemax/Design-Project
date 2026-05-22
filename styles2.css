@@ -1,0 +1,30 @@
+* {
+    margin: 0%;
+    box-sizing: border-box;
+}
+body {
+    font-family: Arial;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+h1 {
+    color: darkgoldenrod;
+}
+
+table {
+    width: 90%;
+    margin: auto;
+    border-collapse: collapse;
+    background-color: white;
+}
+
+th, td {
+    border: 2px solid darkblue;
+    padding: 10px;
+    font-size: 16px;
+}
+th {
+    background-color: darkgoldenrod;
+    color: white;
+}
